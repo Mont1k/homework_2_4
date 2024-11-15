@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework_2_4</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="enter_email">Введите вашу почту</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="login">Войти</string>
+    <string name="forgot_password">Забыли пароль?</string>
+
+</resources>
